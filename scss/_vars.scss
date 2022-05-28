@@ -1,0 +1,16 @@
+$accent-color: #E8C300;
+$text-color: #333333;
+$select-color: #E5E5E5;
+$selectext-color: rgba(51, 51, 51, 0.5);
+$black: #000;
+$white: #FFF;
+
+$ff2: "Bree Serif", serif;
+
+
+@mixin lcl3 {
+	display: -webkit-box;
+	-webkit-box-orient: vertical;
+	-webkit-line-clamp: 2;
+	overflow: hidden;
+}
